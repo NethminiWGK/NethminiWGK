@@ -1,7 +1,7 @@
-<img align="center"width=100% src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ" alt="nethminiwgk" />
-
 <h1 align="center">Hi 👋, I'm Kokila Nethmini</h1>
 <h3 align="center">A passionate full stack developer | Exploring the Boundless World of Technology</h3>
+<img align="center"width=100% src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif" alt="nethminiwgk" />
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nethminiwgk&label=Profile%20views&color=0e75b6&style=flat" alt="nethminiwgk" /> </p>
 
